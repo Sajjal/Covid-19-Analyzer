@@ -1,0 +1,853 @@
+[{
+        "url": "us",
+        "name": "usa"
+    },
+    {
+        "url": "russia",
+        "name": "russia"
+    },
+    {
+        "url": "spain",
+        "name": "spain"
+    },
+    {
+        "url": "uk",
+        "name": "uk"
+    },
+    {
+        "url": "brazil",
+        "name": "brazil"
+    },
+    {
+        "url": "italy",
+        "name": "italy"
+    },
+    {
+        "url": "france",
+        "name": "france"
+    },
+    {
+        "url": "germany",
+        "name": "germany"
+    },
+    {
+        "url": "turkey",
+        "name": "turkey"
+    },
+    {
+        "url": "iran",
+        "name": "iran"
+    },
+    {
+        "url": "india",
+        "name": "india"
+    },
+    {
+        "url": "peru",
+        "name": "peru"
+    },
+    {
+        "url": "canada",
+        "name": "canada"
+    },
+    {
+        "url": "belgium",
+        "name": "belgium"
+    },
+    {
+        "url": "saudi-arabia",
+        "name": "saudi arabia"
+    },
+    {
+        "url": "mexico",
+        "name": "mexico"
+    },
+    {
+        "url": "netherlands",
+        "name": "netherlands"
+    },
+    {
+        "url": "chile",
+        "name": "chile"
+    },
+    {
+        "url": "pakistan",
+        "name": "pakistan"
+    },
+    {
+        "url": "ecuador",
+        "name": "ecuador"
+    },
+    {
+        "url": "qatar",
+        "name": "qatar"
+    },
+    {
+        "url": "switzerland",
+        "name": "switzerland"
+    },
+    {
+        "url": "sweden",
+        "name": "sweden"
+    },
+    {
+        "url": "belarus",
+        "name": "belarus"
+    },
+    {
+        "url": "portugal",
+        "name": "portugal"
+    },
+    {
+        "url": "singapore",
+        "name": "singapore"
+    },
+    {
+        "url": "ireland",
+        "name": "ireland"
+    },
+    {
+        "url": "united-arab-emirates",
+        "name": "uae"
+    },
+    {
+        "url": "bangladesh",
+        "name": "bangladesh"
+    },
+    {
+        "url": "poland",
+        "name": "poland"
+    },
+    {
+        "url": "ukraine",
+        "name": "ukraine"
+    },
+    {
+        "url": "indonesia",
+        "name": "indonesia"
+    },
+    {
+        "url": "romania",
+        "name": "romania"
+    },
+    {
+        "url": "israel",
+        "name": "israel"
+    },
+    {
+        "url": "japan",
+        "name": "japan"
+    },
+    {
+        "url": "austria",
+        "name": "austria"
+    },
+    {
+        "url": "colombia",
+        "name": "colombia"
+    },
+    {
+        "url": "south-africa",
+        "name": "south africa"
+    },
+    {
+        "url": "kuwait",
+        "name": "kuwait"
+    },
+    {
+        "url": "philippines",
+        "name": "philippines"
+    },
+    {
+        "url": "dominican-republic",
+        "name": "dominican republic"
+    },
+    {
+        "url": "egypt",
+        "name": "egypt"
+    },
+    {
+        "url": "south-korea",
+        "name": "south korea"
+    },
+    {
+        "url": "denmark",
+        "name": "denmark"
+    },
+    {
+        "url": "serbia",
+        "name": "serbia"
+    },
+    {
+        "url": "panama",
+        "name": "panama"
+    },
+    {
+        "url": "czech-republic",
+        "name": "czechia"
+    },
+    {
+        "url": "norway",
+        "name": "norway"
+    },
+    {
+        "url": "argentina",
+        "name": "argentina"
+    },
+    {
+        "url": "australia",
+        "name": "australia"
+    },
+    {
+        "url": "algeria",
+        "name": "algeria"
+    },
+    {
+        "url": "bahrain",
+        "name": "bahrain"
+    },
+    {
+        "url": "malaysia",
+        "name": "malaysia"
+    },
+    {
+        "url": "morocco",
+        "name": "morocco"
+    },
+    {
+        "url": "afghanistan",
+        "name": "afghanistan"
+    },
+    {
+        "url": "finland",
+        "name": "finland"
+    },
+    {
+        "url": "kazakhstan",
+        "name": "kazakhstan"
+    },
+    {
+        "url": "moldova",
+        "name": "moldova"
+    },
+    {
+        "url": "nigeria",
+        "name": "nigeria"
+    },
+    {
+        "url": "ghana",
+        "name": "ghana"
+    },
+    {
+        "url": "oman",
+        "name": "oman"
+    },
+    {
+        "url": "armenia",
+        "name": "armenia"
+    },
+    {
+        "url": "luxembourg",
+        "name": "luxembourg"
+    },
+    {
+        "url": "bolivia",
+        "name": "bolivia"
+    },
+    {
+        "url": "hungary",
+        "name": "hungary"
+    },
+    {
+        "url": "iraq",
+        "name": "iraq"
+    },
+    {
+        "url": "azerbaijan",
+        "name": "azerbaijan"
+    },
+    {
+        "url": "cameroon",
+        "name": "cameroon"
+    },
+    {
+        "url": "thailand",
+        "name": "thailand"
+    },
+    {
+        "url": "greece",
+        "name": "greece"
+    },
+    {
+        "url": "uzbekistan",
+        "name": "uzbekistan"
+    },
+    {
+        "url": "guinea",
+        "name": "guinea"
+    },
+    {
+        "url": "honduras",
+        "name": "honduras"
+    },
+    {
+        "url": "senegal",
+        "name": "senegal"
+    },
+    {
+        "url": "bosnia-and-herzegovina",
+        "name": "bosnia and herzegovina"
+    },
+    {
+        "url": "sudan",
+        "name": "sudan"
+    },
+    {
+        "url": "croatia",
+        "name": "croatia"
+    },
+    {
+        "url": "bulgaria",
+        "name": "bulgaria"
+    },
+    {
+        "url": "cote-d-ivoire",
+        "name": "ivory coast"
+    },
+    {
+        "url": "cuba",
+        "name": "cuba"
+    },
+    {
+        "url": "iceland",
+        "name": "iceland"
+    },
+    {
+        "url": "macedonia",
+        "name": "north macedonia"
+    },
+    {
+        "url": "estonia",
+        "name": "estonia"
+    },
+    {
+        "url": "guatemala",
+        "name": "guatemala"
+    },
+    {
+        "url": "lithuania",
+        "name": "lithuania"
+    },
+    {
+        "url": "tajikistan",
+        "name": "tajikistan"
+    },
+    {
+        "url": "new-zealand",
+        "name": "new zealand"
+    },
+    {
+        "url": "slovakia",
+        "name": "slovakia"
+    },
+    {
+        "url": "slovenia",
+        "name": "slovenia"
+    },
+    {
+        "url": "democratic-republic-of-the-congo",
+        "name": "drc"
+    },
+    {
+        "url": "somalia",
+        "name": "somalia"
+    },
+    {
+        "url": "djibouti",
+        "name": "djibouti"
+    },
+    {
+        "url": "mayotte",
+        "name": "mayotte"
+    },
+    {
+        "url": "el-salvador",
+        "name": "el salvador"
+    },
+    {
+        "url": "gabon",
+        "name": "gabon"
+    },
+    {
+        "url": "kyrgyzstan",
+        "name": "kyrgyzstan"
+    },
+    {
+        "url": "maldives",
+        "name": "maldives"
+    },
+    {
+        "url": "china-hong-kong-sar",
+        "name": "hong kong"
+    },
+    {
+        "url": "tunisia",
+        "name": "tunisia"
+    },
+    {
+        "url": "latvia",
+        "name": "latvia"
+    },
+    {
+        "url": "guinea-bissau",
+        "name": "guinea-bissau"
+    },
+    {
+        "url": "sri-lanka",
+        "name": "sri lanka"
+    },
+    {
+        "url": "albania",
+        "name": "albania"
+    },
+    {
+        "url": "cyprus",
+        "name": "cyprus"
+    },
+    {
+        "url": "lebanon",
+        "name": "lebanon"
+    },
+    {
+        "url": "niger",
+        "name": "niger"
+    },
+    {
+        "url": "kenya",
+        "name": "kenya"
+    },
+    {
+        "url": "costa-rica",
+        "name": "costa rica"
+    },
+    {
+        "url": "mali",
+        "name": "mali"
+    },
+    {
+        "url": "burkina-faso",
+        "name": "burkina faso"
+    },
+    {
+        "url": "paraguay",
+        "name": "paraguay"
+    },
+    {
+        "url": "andorra",
+        "name": "andorra"
+    },
+    {
+        "url": "zambia",
+        "name": "zambia"
+    },
+    {
+        "url": "uruguay",
+        "name": "uruguay"
+    },
+    {
+        "url": "georgia",
+        "name": "georgia"
+    },
+    {
+        "url": "san-marino",
+        "name": "san marino"
+    },
+    {
+        "url": "jordan",
+        "name": "jordan"
+    },
+    {
+        "url": "equatorial-guinea",
+        "name": "equatorial guinea"
+    },
+    {
+        "url": "channel-islands",
+        "name": "channel islands"
+    },
+    {
+        "url": "malta",
+        "name": "malta"
+    },
+    {
+        "url": "venezuela",
+        "name": "venezuela"
+    },
+    {
+        "url": "jamaica",
+        "name": "jamaica"
+    },
+    {
+        "url": "tanzania",
+        "name": "tanzania"
+    },
+    {
+        "url": "sierra-leone",
+        "name": "sierra leone"
+    },
+    {
+        "url": "chad",
+        "name": "chad"
+    },
+    {
+        "url": "reunion",
+        "name": "réunion"
+    },
+    {
+        "url": "taiwan",
+        "name": "taiwan"
+    },
+    {
+        "url": "congo",
+        "name": "congo"
+    },
+    {
+        "url": "state-of-palestine",
+        "name": "palestine"
+    },
+    {
+        "url": "haiti",
+        "name": "haiti"
+    },
+    {
+        "url": "benin",
+        "name": "benin"
+    },
+    {
+        "url": "isle-of-man",
+        "name": "isle of man"
+    },
+    {
+        "url": "mauritius",
+        "name": "mauritius"
+    },
+    {
+        "url": "cabo-verde",
+        "name": "cabo verde"
+    },
+    {
+        "url": "central-african-republic",
+        "name": "car"
+    },
+    {
+        "url": "montenegro",
+        "name": "montenegro"
+    },
+    {
+        "url": "viet-nam",
+        "name": "vietnam"
+    },
+    {
+        "url": "ethiopia",
+        "name": "ethiopia"
+    },
+    {
+        "url": "madagascar",
+        "name": "madagascar"
+    },
+    {
+        "url": "togo",
+        "name": "togo"
+    },
+    {
+        "url": "nepal",
+        "name": "nepal"
+    },
+    {
+        "url": "rwanda",
+        "name": "rwanda"
+    },
+    {
+        "url": "south-sudan",
+        "name": "south sudan"
+    },
+    {
+        "url": "sao-tome-and-principe",
+        "name": "sao tome and principe"
+    },
+    {
+        "url": "uganda",
+        "name": "uganda"
+    },
+    {
+        "url": "liberia",
+        "name": "liberia"
+    },
+    {
+        "url": "swaziland",
+        "name": "eswatini"
+    },
+    {
+        "url": "french-guiana",
+        "name": "french guiana"
+    },
+    {
+        "url": "martinique",
+        "name": "martinique"
+    },
+    {
+        "url": "faeroe-islands",
+        "name": "faeroe islands"
+    },
+    {
+        "url": "myanmar",
+        "name": "myanmar"
+    },
+    {
+        "url": "guadeloupe",
+        "name": "guadeloupe"
+    },
+    {
+        "url": "gibraltar",
+        "name": "gibraltar"
+    },
+    {
+        "url": "brunei-darussalam",
+        "name": "brunei "
+    },
+    {
+        "url": "mozambique",
+        "name": "mozambique"
+    },
+    {
+        "url": "mongolia",
+        "name": "mongolia"
+    },
+    {
+        "url": "yemen",
+        "name": "yemen"
+    },
+    {
+        "url": "bermuda",
+        "name": "bermuda"
+    },
+    {
+        "url": "cambodia",
+        "name": "cambodia"
+    },
+    {
+        "url": "guyana",
+        "name": "guyana"
+    },
+    {
+        "url": "trinidad-and-tobago",
+        "name": "trinidad and tobago"
+    },
+    {
+        "url": "aruba",
+        "name": "aruba"
+    },
+    {
+        "url": "bahamas",
+        "name": "bahamas"
+    },
+    {
+        "url": "monaco",
+        "name": "monaco"
+    },
+    {
+        "url": "cayman-islands",
+        "name": "cayman islands"
+    },
+    {
+        "url": "barbados",
+        "name": "barbados"
+    },
+    {
+        "url": "liechtenstein",
+        "name": "liechtenstein"
+    },
+    {
+        "url": "sint-maarten",
+        "name": "sint maarten"
+    },
+    {
+        "url": "libya",
+        "name": "libya"
+    },
+    {
+        "url": "malawi",
+        "name": "malawi"
+    },
+    {
+        "url": "mauritania",
+        "name": "mauritania"
+    },
+    {
+        "url": "french-polynesia",
+        "name": "french polynesia"
+    },
+    {
+        "url": "syria",
+        "name": "syria"
+    },
+    {
+        "url": "angola",
+        "name": "angola"
+    },
+    {
+        "url": "china-macao-sar",
+        "name": "macao"
+    },
+    {
+        "url": "zimbabwe",
+        "name": "zimbabwe"
+    },
+    {
+        "url": "saint-martin",
+        "name": "saint martin"
+    },
+    {
+        "url": "eritrea",
+        "name": "eritrea"
+    },
+    {
+        "url": "nicaragua",
+        "name": "nicaragua"
+    },
+    {
+        "url": "antigua-and-barbuda",
+        "name": "antigua and barbuda"
+    },
+    {
+        "url": "botswana",
+        "name": "botswana"
+    },
+    {
+        "url": "timor-leste",
+        "name": "timor-leste"
+    },
+    {
+        "url": "burundi",
+        "name": "burundi"
+    },
+    {
+        "url": "gambia",
+        "name": "gambia"
+    },
+    {
+        "url": "grenada",
+        "name": "grenada"
+    },
+    {
+        "url": "bhutan",
+        "name": "bhutan"
+    },
+    {
+        "url": "laos",
+        "name": "laos"
+    },
+    {
+        "url": "belize",
+        "name": "belize"
+    },
+    {
+        "url": "fiji",
+        "name": "fiji"
+    },
+    {
+        "url": "new-caledonia",
+        "name": "new caledonia"
+    },
+    {
+        "url": "saint-lucia",
+        "name": "saint lucia"
+    },
+    {
+        "url": "saint-vincent-and-the-grenadines",
+        "name": "st. vincent grenadines"
+    },
+    {
+        "url": "curacao",
+        "name": "curaçao"
+    },
+    {
+        "url": "dominica",
+        "name": "dominica"
+    },
+    {
+        "url": "namibia",
+        "name": "namibia"
+    },
+    {
+        "url": "saint-kitts-and-nevis",
+        "name": "saint kitts and nevis"
+    },
+    {
+        "url": "falkland-islands-malvinas",
+        "name": "falkland islands"
+    },
+    {
+        "url": "turks-and-caicos-islands",
+        "name": "turks and caicos"
+    },
+    {
+        "url": "holy-see",
+        "name": "vatican city"
+    },
+    {
+        "url": "comoros",
+        "name": "comoros"
+    },
+    {
+        "url": "montserrat",
+        "name": "montserrat"
+    },
+    {
+        "url": "greenland",
+        "name": "greenland"
+    },
+    {
+        "url": "seychelles",
+        "name": "seychelles"
+    },
+    {
+        "url": "suriname",
+        "name": "suriname"
+    },
+    {
+        "url": "british-virgin-islands",
+        "name": "british virgin islands"
+    },
+    {
+        "url": "papua-new-guinea",
+        "name": "papua new guinea"
+    },
+    {
+        "url": "caribbean-netherlands",
+        "name": "caribbean netherlands"
+    },
+    {
+        "url": "saint-barthelemy",
+        "name": "st. barth"
+    },
+    {
+        "url": "western-sahara",
+        "name": "western sahara"
+    },
+    {
+        "url": "anguilla",
+        "name": "anguilla"
+    },
+    {
+        "url": "lesotho",
+        "name": "lesotho"
+    },
+    {
+        "url": "saint-pierre-and-miquelon",
+        "name": "saint pierre miquelon"
+    },
+    {
+        "url": "china",
+        "name": "china"
+    }
+]
