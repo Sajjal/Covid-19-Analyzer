@@ -56,8 +56,6 @@ module.exports.searchCases = async function(country) {
                 flag: flag,
             };
 
-            console.log(covidStat.recovered);
-
             finalData.push(covidStat);
             return finalData[0];
         });

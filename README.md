@@ -28,7 +28,7 @@ and here it is.
 
 ### Node.js:
 
-- Install **Node.js** in your computer.
+- Install **Node.js** on your computer.
 
 ---
 

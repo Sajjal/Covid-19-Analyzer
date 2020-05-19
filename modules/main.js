@@ -30,10 +30,10 @@ async function processData(country) {
 
 module.exports = {
     renderHTML: async function() {
-        let world_data = await processData("");
-        let Nepal_data = await processData("Nepal");
-        let USA_data = await processData("USA");
         app.get("*", async function(req, res) {
+            let world_data = await processData("");
+            let Nepal_data = await processData("Nepal");
+            let USA_data = await processData("USA");
             res.render("index.ejs", {
                 data: {
                     message: "Welcome!",
@@ -48,7 +48,7 @@ module.exports = {
             let country = req.body.search;
             let data = await processData(country);
 
-            if (data === "") {
+            if (data === "" || country === "") {
                 res.render("not_found.ejs", {
                     data: { message: `${country} Not Found!` },
                 });
