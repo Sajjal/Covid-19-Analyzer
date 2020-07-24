@@ -48,7 +48,7 @@ and here it is.
 
 ## Demo:
 
-**Visit** `http://35.224.203.126:2000` for the live demonstration.
+**Visit** `https://covid.mrsajjal.com` for the live demonstration.
 
 ---
 

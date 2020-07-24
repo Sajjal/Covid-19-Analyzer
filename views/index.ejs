@@ -1,107 +1,104 @@
 <html>
-
-<head>
+  <head>
     <title>
-        S & D Covid-19 Tracker
+      S & D Covid-19 Analyzer
     </title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="shortcut icon" href="/images/icon.png" />
     <script src="./chart.js"></script>
     <script src="./draw_chart.js"></script>
-</head>
+  </head>
 
-<body>
+  <body>
     <div class="data-entry">
-
-        <h1>Covid-19 Analyzer</h1>
-        <div class="notification" id="notification">
-            <%=data.message%>
-        </div>
-        <form id="form" action='/' method='post'>
-            <div class="notification">
-                <div align="left">
-                    <a href="/"><img src="./images/home.png" height="50" width="50"></a>
-                    <div class="searchbox" style="float: right; width: 730px"><input type='text' name="search" placeholder="   🔎    Search Country..."></div>
-                </div>
+      <h1>Covid-19 Analyzer</h1>
+      <div class="notification" id="notification">
+        <%=data.message%>
+      </div>
+      <form id="form" action="/" method="post">
+        <div class="notification">
+          <div align="left">
+            <a href="/"><img src="./images/home.png" height="50" width="50" /></a>
+            <div class="searchbox" style="float: right; width: 730px;">
+              <input type="text" name="search" placeholder="   🔎    Search Country..." />
             </div>
-            <input type="submit" class="btn" value="" />
-        </form>
-
-
-        <div id='data_Table'>
-
-            <table class="content-table" id='dataTable'>
-                <thead>
-                    <tr>
-                        <th>Country</th>
-                        <th>Total</th>
-                        <th>Death(s)</th>
-                        <th>Recovered</th>
-                        <th>Active</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>
-                            <img src="<%=data.world.flag%>" height="50" width="50">
-                        </td>
-                        <td id='total'>
-                            <%=data.world.total%>
-                        </td>
-                        <td id='death'>
-                            <%=data.world.death%>
-                        </td>
-                        <td id='recovered'>
-                            <%=data.world.recovered%>
-                        </td>
-                        <td id='active'>
-                            <%=data.world.active%>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="<%=data.Nepal.flag%>" height="50" width="50">
-                        </td>
-                        <td>
-                            <%=data.Nepal.total%>
-                        </td>
-                        <td>
-                            <%=data.Nepal.death%>
-                        </td>
-                        <td>
-                            <%=data.Nepal.recovered%>
-                        </td>
-                        <td>
-                            <%=data.Nepal.active%>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="<%=data.USA.flag%>" height="50" width="50">
-                        </td>
-                        <td>
-                            <%=data.USA.total%>
-                        </td>
-                        <td>
-                            <%=data.USA.death%>
-                        </td>
-                        <td>
-                            <%=data.USA.recovered%>
-                        </td>
-                        <td>
-                            <%=data.USA.active%>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-
+          </div>
         </div>
-        <div class="txtbox">
-            <canvas id="dataChart"></canvas>
-        </div>
-        <div class="footer">
-            S & D Covid-19 Analyzer | github: @sajjal
-        </div>
+        <input type="submit" class="btn" value="" />
+      </form>
+
+      <div id="data_Table">
+        <table class="content-table" id="dataTable">
+          <thead>
+            <tr>
+              <th>Country</th>
+              <th>Total</th>
+              <th>Death(s)</th>
+              <th>Recovered</th>
+              <th>Active</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <img src="<%=data.world.flag%>" height="50" width="50" />
+              </td>
+              <td id="total">
+                <%=data.world.total%>
+              </td>
+              <td id="death">
+                <%=data.world.death%>
+              </td>
+              <td id="recovered">
+                <%=data.world.recovered%>
+              </td>
+              <td id="active">
+                <%=data.world.active%>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <img src="<%=data.Nepal.flag%>" height="50" width="50" />
+              </td>
+              <td>
+                <%=data.Nepal.total%>
+              </td>
+              <td>
+                <%=data.Nepal.death%>
+              </td>
+              <td>
+                <%=data.Nepal.recovered%>
+              </td>
+              <td>
+                <%=data.Nepal.active%>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <img src="<%=data.USA.flag%>" height="50" width="50" />
+              </td>
+              <td>
+                <%=data.USA.total%>
+              </td>
+              <td>
+                <%=data.USA.death%>
+              </td>
+              <td>
+                <%=data.USA.recovered%>
+              </td>
+              <td>
+                <%=data.USA.active%>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="txtbox">
+        <canvas id="dataChart"></canvas>
+      </div>
+      <div class="footer">
+        S & D Covid-19 Analyzer | github: @sajjal
+      </div>
     </div>
-</body>
-
+  </body>
 </html>

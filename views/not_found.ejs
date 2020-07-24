@@ -1,37 +1,36 @@
 <html>
-
-<head>
+  <head>
     <title>
-        S & D Covid-19 Tracker
+      S & D Covid-19 Analyzer
     </title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="shortcut icon" href="/images/icon.png" />
+  </head>
 
-<body>
+  <body>
     <div class="data-entry">
-
-        <h1>Covid-19 Analyzer</h1>
-        <div class="err_notification">
-            <%=data.message%>
-        </div>
-        <form id="form" action='/' method='post'>
-            <div class="notification">
-                <div align="left">
-                    <a href="/"><img src="./images/home.png" height="50" width="50"></a>
-                    <div class="searchbox" style="float: right; width: 730px"><input type='text' name="search" placeholder="   🔎    Search Country..."></div>
-                </div>
+      <h1>Covid-19 Analyzer</h1>
+      <div class="err_notification">
+        <%=data.message%>
+      </div>
+      <form id="form" action="/" method="post">
+        <div class="notification">
+          <div align="left">
+            <a href="/"><img src="./images/home.png" height="50" width="50" /></a>
+            <div class="searchbox" style="float: right; width: 730px;">
+              <input type="text" name="search" placeholder="   🔎    Search Country..." />
             </div>
-            <input type="submit" class="btn" value="" />
-        </form>
-        <div class="txtbox">
-            Try Abbreviating: [ United States: USA | United Kingdom: UK ] or Give a Space. [ Hongkong: Hong Kong ]
+          </div>
         </div>
+        <input type="submit" class="btn" value="" />
+      </form>
+      <div class="txtbox">
+        Try Abbreviating: [ United States: USA | United Kingdom: UK ] or Give a Space. [ Hongkong: Hong Kong ]
+      </div>
 
-
-        <div class="footer">
-            S & D Covid-19 Analyzer | github: @sajjal
-        </div>
+      <div class="footer">
+        S & D Covid-19 Analyzer | github: @sajjal
+      </div>
     </div>
-</body>
-
+  </body>
 </html>
