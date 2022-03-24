@@ -8,7 +8,7 @@ app.set("view engine", "ejs") + app.engine("ejs", require("ejs").__express);
 app.use(express.static("views"));
 
 //routing
-let port = process.env.PORT || 2000;
+let port = process.env.PORT || 3000;
 /****************************************************** */
 
 let stats = require("./stats_scrapper");
